@@ -1,0 +1,75 @@
+categories_id,categories_name,categories_discription,CreateTime,,
+1,php,PHP is a general-purpose scripting language geared towards web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993 and released in 1995. The PHP reference implementation is now produced by the PHP Group. PHP was ori,6/17/2024 21:55,,
+2,c,C is a commonly used computer programming language. It was developed by Dennis Ritchie ,6/17/2024 21:56,,
+3,abc,fsjhfhdifhrg,6/18/2024 19:27,,
+4,c#,"C# is a general-purpose high-level programming language supporting multiple paradigms. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming ",6/30/2024 21:22,,
+5,html,HyperText Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript,6/30/2024 21:23,,
+comment_id,comment_content,threads_id,comment_by,comment_time,
+1,this is a comment,1,1,6/18/2024 22:41,
+2,jv,1,2,6/18/2024 22:48,
+3,dsgsdds,1,3,6/18/2024 22:48,
+4,dsgsdds,1,6,6/18/2024 22:57,
+5,dsgsdds,1,4,6/18/2024 23:00,
+6,dhrupal,2,5,6/22/2024 14:33,
+7,"PHP is a general-purpose scripting language geared towards web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993 and released in 1995. The PHP reference implementation is now produced by the PHP Group. PHP was originally an abbreviation of Personal
+",1,8,6/22/2024 14:51,
+8,"dffs
+",14,0,6/25/2024 22:57,
+9,sdffa,14,0,6/25/2024 22:57,
+10,dhrfkiskajnfsm,15,9,6/25/2024 23:31,
+11,dhrfkiskajnfsm,15,9,6/25/2024 23:35,
+12,"this is comment in php threads
+",17,11,6/26/2024 0:03,
+13,"this is comment in php threads
+",17,11,6/26/2024 0:12,
+14,"this is comment in php threads
+",17,11,6/26/2024 0:13,
+15,"this is comment in php threads
+",17,11,6/26/2024 0:14,
+16,"this is comment in php threads
+",17,11,6/26/2024 0:14,
+17,"this is comment in php threads
+",17,11,6/26/2024 0:15,
+18,this is comment in dhrupal007u id ,20,9,6/26/2024 8:48,
+19,vicky bod is 22/09/2005,21,14,6/30/2024 21:10,
+threads_id,threads_tital,threads_desc,threads_cat_id,threads_user_id,time
+1,dhrupal,my full name is chabhadiya dhrupal kishor bhai,1,2,6/18/2024 15:02
+2,esfljfn,t;uhrijk,1,3,6/18/2024 19:29
+3,dgsd,wtet,2,5,6/18/2024 20:36
+4,dgsd,wtet,2,2,6/18/2024 20:50
+5,srgrthtrhhtr,trhrth,2,3,6/18/2024 20:50
+6,srgrthtrhhtr,trhrth,2,6,6/18/2024 20:51
+7,srgrthtrhhtr,trhrth,2,4,6/18/2024 20:51
+8,srgrthtrhhtr,trhrth,2,8,6/18/2024 20:53
+9,dfsfwe,q3rwet,2,7,6/18/2024 21:37
+10,dfsfwe,q3rwet,2,5,6/18/2024 22:14
+11,dsjgheri90ey,wetneeyye,2,3,6/19/2024 7:39
+12,as,"as devloper
+",2,1,6/22/2024 14:33
+13,PHP is a general-purpose scripting language geared towards web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993 and released in 1995. The PHP reference implementation is now produced by the PHP Group. PHP was ori,PHP is a general-purpose scripting language geared towards web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993 and released in 1995. The PHP reference implementation is now produced by the PHP Group. PHP was originally an abbreviation of Personal,1,6,6/22/2024 14:51
+14,php portfolio,my question  is very simple is this code in  bug,1,1,6/25/2024 22:56
+15,my name is dhrupal007u,password is dhrupal,1,9,6/25/2024 23:30
+16,this is a c ,language,2,9,6/25/2024 23:36
+17,my name is dhrupal,"this is php
+",1,11,6/26/2024 0:02
+18,utsav,patel,2,12,6/26/2024 0:16
+19,this is my main problem ,can no  login in idicuss web page in log in,2,9,6/26/2024 8:45
+20,this is my main problem ,can no  login in idicuss web page in log in,2,9,6/26/2024 8:46
+21,vicky,he is my best friend and is childhood friend ,1,14,6/30/2024 21:00
+22,vicky,he is my best friend and is childhood friend ,1,14,6/30/2024 21:01
+23,vicky,he is my best friend and is childhood friend ,1,14,6/30/2024 21:03
+sno,user_email,user_pass,time,,
+1,chabhadiyadhrupal99@gmail.com,$2y$10$AXklICuQ4vH2j.WsRwN.6e9kIk4Y7gH2gnDCMHiqcK.DmBVhRFbZS,6/22/2024 16:43,,
+2,chabhadiyadhrupl99@gmail.com,$2y$10$/qAu5G3ENj2VARFH5uUC9.0V6scbKFNqD9EsRu4iOOT3snjxbU8va,6/22/2024 16:51,,
+3,utsavchabhadiya31@gmail.com,$2y$10$FtEOJKiK8/LZKWZwD92hs.rh81yyHWdWgYevhYRrIpAeswedqMBcW,6/22/2024 16:55,,
+4,patel@gmail.com,$2y$10$2HKDQfZ1AgdLR2RweWc1TuCvWrC4uCGUu7yeBEcYAo83vpabk8bse,6/22/2024 16:58,,
+5,sd@gmail.com,$2y$10$QGS0nxU.ZfHwmbvaMY14p.qxCIzyFYtWfC8F608RMjo5RuRAbfk7e,6/24/2024 18:36,,
+6,123@123.com,$2y$10$xudRc1AIA62ln.R6L8IUHOkCKGbaLwdPxmWLGX8RsJELKi3aTfT4a,6/24/2024 19:18,,
+7,dhrupal@g.com,$2y$10$2kOkbkGYnDm0Ic99fcng/u5.Y26P68ZpB2V6u0yYODK4eaIoSk7Eq,6/24/2024 19:46,,
+8,abc@gmail.com,$2y$10$.O90i.F/IJ8ffEAeigZY5e.OXAsjiEK83DZi9vOrT3GzRkdS980L6,6/25/2024 20:29,,
+9,dhrupal007u@gmail.com,$2y$10$hvDRqvindw87AifuEv/wR.nDjJ5eiXPUiLneZOqvQnr1J5.ShFcDm,6/25/2024 20:45,,
+10,dkpatel@gmail.com,$2y$10$ty23.Ep852HsJlFcHHoNaOEU5WSQxud8y47w3nbIZ1ry4XfcwwWIa,6/25/2024 22:55,,
+11,dhrupal,$2y$10$YQ1i6vi03JagOnNu.zn28O.ZlPBbN.4ieGUbUcZ4vRY7P0A4Akv1a,6/26/2024 0:02,,
+12,utsav,$2y$10$DA9u6uYt.udKEaDUEC5TRens6Xr/6HmzQVmCXWvs35UwPG/e4LEj2,6/26/2024 0:15,,
+13,vicky,$2y$10$4BqEnSY5Ej9dPlH80VT./OJfIxa0UV2t8HMBU1yGa7QzrNGLiiUq6,6/29/2024 7:18,,
+14,dhrupalchabhadiya99@gmail.com,$2y$10$FrNk.kwbo038hqlQD7pqiuh6Y1s8woMQvHu.y0Vh2qs.CVMDahD36,6/30/2024 20:57,,
